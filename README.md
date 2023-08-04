@@ -1,8 +1,13 @@
 # ACRN Tinnitus Protocol v1
 
+
 ACRN Tinnitus Protocol v1 is a standalone application designed to help those battling the incessant annoyance of tinnitus. It is an answer to the critical need for accessible, effective, and cost-free tinnitus relief solutions.
 
 Constructed using Python 3, the application employs PySide2 for its user-friendly graphical user interface, PyAudio for robust audio processing, and Numpy for efficient numerical operations. The compiled application, courtesy of PyInstaller, offers an accessible and user-friendly relief tool for tinnitus sufferers. 
+
+![Screenshot of ACRN Tinnitus Protocol v1](https://github.com/swaghax/ACRN/blob/main/app_screenshot_1.png)
+
+[Download from Releases](https://github.com/swaghax/ACRN/releases/tag/auto)
 
 ## Key Features
 
