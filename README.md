@@ -21,6 +21,12 @@ Constructed using Python 3, the application employs PySide2 for its user-friendl
 
 For those who found this application helpful and wish to support the developer, feel free to [Buy me a coffee](https://www.paypal.com/paypalme/eyesackdesigns).
 
-Please note: This program is not open-source. Its compilation into a distributable format aims to prevent unauthorized usage and reproduction while ensuring its reach to those in need.
+## LICENSE
+Attribution-NonCommercial 4.0 International
+[CC Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
+
+Basically, you are **NOT PERMITTED** to create commercial software with the source code. 
+
+**Medical relief should NOT BE CAPITALISED UPON.**
 
 *Copyright © 2023 by Isaac Calabrese*
