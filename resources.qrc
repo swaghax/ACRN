@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="images">
+    <file>ACRN_ICON.ico</file>
+  </qresource>
+</RCC>
