@@ -29,4 +29,11 @@ Basically, you are **NOT PERMITTED** to create commercial software with the sour
 
 **Medical relief should NOT BE CAPITALISED UPON.**
 
+## Requirements
+- Python 3
+- pyaudio
+- numpy
+- Pyside2
+
+
 *Copyright © 2023 by Isaac Calabrese*
